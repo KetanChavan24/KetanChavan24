@@ -79,8 +79,10 @@ Here's what I'm working on currently:
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=KetanChavan24&theme=radical&area=true&hide_border=true" alt="GitHub Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KetanChavan24&theme=radical&area=true&hide_border=true" alt="GitHub Activity" width="100%" />
 </p>
+
+
 
 ---
 
@@ -100,8 +102,7 @@ Here's what I'm working on currently:
 
 ---
 
-### 🎯 Fun Fact:  
-- **Code > Coffee** ☕  
+### 🎯 Fun Fact:    
 - **React > Angular?** — Still figuring it out 😅
 - **Never Stop Learning** — that's the motto!
 
