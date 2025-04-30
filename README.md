@@ -92,7 +92,7 @@ Here's what I'm working on currently:
   [View Repository](https://github.com/KetanChavan24/Javascript-series)
 
 - **🔥 React Mini Project**  
-  Building a mini project with **Angular**. Stay tuned for updates!  
+  Building a mini project with **React**. Stay tuned for updates!  
   [Coming Soon…]
 
 - **💻 Node.js Backend API**  
