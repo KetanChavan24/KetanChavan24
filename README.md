@@ -19,7 +19,6 @@ Here's what I'm working on currently:
 
 **Frontend:**
 <p>
-  <img src="https://img.shields.io/badge/Angular-007C8C.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
