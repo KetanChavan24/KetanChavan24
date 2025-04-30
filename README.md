@@ -3,11 +3,11 @@
 
 ---
 ### 👨‍💻 About Me:
-I’m **Ketan Chavan**, a passionate tech enthusiast focusing on full-stack development with expertise in the **MEAN stack**. Currently, I’m enhancing my skills through the **J.P. Morgan Chase Forage Internship Program**, where I’m diving into **Java**, backend development, and problem-solving. I’m also actively working on projects with **Angular**, **Node.js**, and **Python** to broaden my skill set and build innovative web applications. I thrive on learning new technologies and tackling real-world challenges through code.
+I’m **Ketan Chavan**, a passionate tech enthusiast focusing on full-stack development with expertise in the **MERN stack**. Currently, I’m enhancing my skills through the **J.P. Morgan Chase Forage Internship Program**, where I’m diving into **Java**, backend development, and problem-solving. I’m also actively working on projects with **React**, **Node.js**, and **Python** to broaden my skill set and build innovative web applications. I thrive on learning new technologies and tackling real-world challenges through code.
   
 Here's what I'm working on currently:
 
-- 🛠️ **Frontend Skills**: Diving into **Angular** and **React.js**
+- 🛠️ **Frontend Skills**: Diving into **React.js**
 - ⚡ **Backend Skills**: Exploring **Node.js** and **Express.js** for robust web apps
 - 📊 **Database Knowledge**: Building apps with **MongoDB**
 - 🔄 **Language Journey**: Revising **JavaScript**, **Java**, and **Python** for backend & data-driven solutions
@@ -50,7 +50,7 @@ Here's what I'm working on currently:
 ---
 
 ### 🌱 Currently Learning:
-- Mastering **MEAN Stack** with **Angular** & **Node.js** 💻
+- Mastering **MERN Stack** with **React** & **Node.js** 💻
 - Working through the **Forage Internship** to level up backend skills 🔧
 - Focused on **Python** and **Java** for backend development 🧠
 - Building projects & learning how to structure **clean code** 💡
@@ -92,7 +92,7 @@ Here's what I'm working on currently:
   A complete **JavaScript basics journey** that I learned from Hitesh Choudhary’s course.  
   [View Repository](https://github.com/KetanChavan24/Javascript-series)
 
-- **🔥 Angular Mini Project**  
+- **🔥 React Mini Project**  
   Building a mini project with **Angular**. Stay tuned for updates!  
   [Coming Soon…]
 
