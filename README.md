@@ -2,9 +2,7 @@
 🚀 Full Stack Engineer | AI/ML Enthusiast | Backend(Java) Explorer | Python Developer
 
 ---
-### 👨‍💻 About Me:
-I’m **Ketan Chavan**, a passionate tech enthusiast focusing on full-stack development with expertise in the **MERN stack**. Currently, I’m enhancing my skills through the **J.P. Morgan Chase Forage Internship Program**, where I’m diving into **Java**, backend development, and problem-solving. I’m also actively working on projects with **React**, **Node.js**, and **Python** to broaden my skill set and build innovative web applications. I thrive on learning new technologies and tackling real-world challenges through code.
-  
+
 Here's what I'm working on currently:
 
 - 🛠️ **Frontend Skills**: Diving into **React.js**
